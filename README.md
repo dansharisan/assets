@@ -1,1 +1,1 @@
-# assets
+Public assets
